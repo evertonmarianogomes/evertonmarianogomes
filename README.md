@@ -1,10 +1,23 @@
-  ### HelloWorld 👋
+  ### Olá Mundo, eu sou Everton Gomes 👋💻
 
-- Olá mundo, meu nome é Everton, tenho 20 anos e atualmente estou fazendo o curso Superior em Sistemas para Internet.
-  - Sou formado em Técnico em Informática pelo Instituto Federal de Mato Grosso do Sul, Campus Campo Grande.
-  - Comecei a gostar de programação em 2018, no terceiro semestre do curso, antes eu não curtia.
-  - Minha primeira linguagem de programação foi C, porém aprendi melhor o JAVA.
-  - Minha primeira Linguagem de Programação para WEB foi o PHP, no sexto semestre do curso.
-  - Eu gosto mais da parte de Back-End, mas também sei o básico de HTML, CSS e JS.
-  - No Exercito Brasileiro, tarabalhei na Informática da Base de Administração e Apoio do Comando Militar do Oeste como auxiliar de Sistemas.
-  - Atualmente faço o curso Superior em Sistemas para Internet, com previsão de conclusão em 2024.
+<a href="https://github.com/evertonmarianogomes">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=evertonmarianogomes&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/evertonmarianogomes">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evertonmarianogomes&layout=compact&langs_count=8&card_width=450" />
+</a>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+</div>
+
+
+<br/>
+
+##### UFMS - SISTEMAS DE INFORMAÇÃO
+
+  
