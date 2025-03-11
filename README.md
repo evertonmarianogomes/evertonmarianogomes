@@ -4,7 +4,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=evertonmarianogomes&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/evertonmarianogomes">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evertonmarianogomes&layout=compact&langs_count=8&card_width=450" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evertonmarianogomes&layout=compact&langs_count=8&card_width=250" />
 </a>
 
 <div style="display: inline_block"><br>
