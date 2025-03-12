@@ -1,4 +1,9 @@
-  ### Olá Mundo, eu sou Everton Gomes 👋💻
+### Olá Mundo, eu sou Everton Gomes 👋💻
+
+#### 🎓 UFMS - Sistemas de Informação (3º Semestre)
+#### 📜 **Curso Técnico em Informática** – Instituto Federal de Mato Grosso do Sul - Campus Campo Grande
+
+##
 
 <a href="https://github.com/evertonmarianogomes">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=evertonmarianogomes&show_icons=true&theme=dark" />
@@ -15,9 +20,14 @@
   <img align="center" alt="LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 </div>
 
+##
 
-<br/>
+<div>
+    <a href="https://www.linkedin.com/in/everton-mariano-gomes-46277723b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-##### UFMS - SISTEMAS DE INFORMAÇÃO
+
+
+
 
   
