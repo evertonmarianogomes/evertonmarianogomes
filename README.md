@@ -1,6 +1,6 @@
 ### Olá Mundo, eu sou Everton Gomes 👋💻
 
-#### 🎓 UFMS - Sistemas de Informação (3º Semestre)
+#### 🎓 UFMS - Sistemas de Informação (5º Semestre)
 #### 📜 **Curso Técnico em Informática** – Instituto Federal de Mato Grosso do Sul - Campus Campo Grande
 
 ##
